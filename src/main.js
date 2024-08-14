@@ -11,7 +11,7 @@ class Boot extends Phaser.Scene {
 
 window.addEventListener('load', () => {
   const game = new Phaser.Game({
-    title: 'Phaser Game',
+    title: 'Phaser3 Game',
     version: config.version,
     width: config.width,
     height: config.height,

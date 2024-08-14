@@ -1,4 +1,4 @@
-# Quiz Game
+# Phaser3 Game
 
 ### How to start Phaser Project:
 
