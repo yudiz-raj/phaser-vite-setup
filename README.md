@@ -1,0 +1,10 @@
+# Quiz Game
+
+### How to start Phaser Project:
+
+````javascript
+npm i
+````
+after installing node_modules
+````
+npm run dev# phaser-vite-setup
