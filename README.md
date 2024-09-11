@@ -7,4 +7,4 @@ npm i
 ````
 after installing node_modules
 ````
-npm run dev# phaser-vite-setup
+npm run dev
